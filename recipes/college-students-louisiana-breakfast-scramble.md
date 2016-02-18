@@ -2,8 +2,8 @@
 
 ## Ingredients
 
-*  1 pack of frozen mirepoux veggies (green bell peppers, onions and celery)
 *  1 lb of spicy Italian pork Sausage
+*  1 pack of frozen mirepoux veggies (green bell peppers, onions and celery)
 *  1 cup of grits
 *  1 cup of chicken stock
 *  1 cup of water
