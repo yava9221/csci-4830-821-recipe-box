@@ -1,13 +1,13 @@
 ## Ingredients
 
-#Salad
+###Salad
 *  1  head of broccoli
 *  6  sticks of celery, rinsed and chopped
 *  1  bunch of seedless grapes, green or red
 *  2  cups of toasted sunflower seeds, salted
 *  Optional: bacon as desired
 
-#Dressing
+###Dressing
 * 1 cup mayonnaise
 * 1 cup vinaigrette of choice
 
@@ -16,7 +16,7 @@
 @@
  Cut the floretts off the head of broccoli, place them in boiling water for 15-30 seconds until blanched. Remove from heat and quickly drain hot water, rinsing with cold water. In a large bowl, add celery and broccoli. Wash and remove grapes from stem. Add grapes to bowl. 
 
-#Dressing
+###Dressing
 Mix mayonaise and vinagrette until smooth. Pour over salad and mix no more than 1 hour before serving.  
 
 
