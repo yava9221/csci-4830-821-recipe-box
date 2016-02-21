@@ -40,8 +40,17 @@ workflow](https://guides.github.com/introduction/flow/).
 
 A few style guidelines:
 
-1.  Use the pound sign `#` for headers instead of dashes on the underline
-    style.
+1.  Use the pound sign `#` for headers instead of dashes or equals signs. Use
+    the leading pound sign only. For example,
+
+    ```
+    # Good
+
+    # Bad #
+
+    Bad
+    ===
+    ```
 2.  Wrap all lines to 80 columns max.
 3.  When writing lists, take care when wrapping long lines. The text on the
     subsequent lines should line up with the text on the previous line. For
