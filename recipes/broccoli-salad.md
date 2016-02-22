@@ -28,7 +28,7 @@
 3.  Note: dress salad no more than 1 hour before serving.  
 
 ## License
-CSCI 4830-821 Recipe Box (c) by The CSCI 4830-821 Authors
+CSCI 4830-821 Recipe Box (c) by The CSCI 4830-821 Authors  
 CSCI 4830-821 Recipe Box is licensed under a Creative Commons Attribution 4.0  
 International License.
 
