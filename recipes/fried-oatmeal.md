@@ -15,7 +15,7 @@
 4.  Stir continuously until the oats start to brown.
 5.  Once the oats are browned remove from heat and continue to stir to prevent
     burring.
-6.  Eat with milk or yogurt on it
+6.  Eat with milk or yogurt on it.
 
 ## License
 
