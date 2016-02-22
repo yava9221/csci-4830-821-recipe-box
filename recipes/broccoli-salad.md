@@ -1,4 +1,3 @@
-:set textwidth=80
 # Broccoli Salad
 ## Ingredients
 
