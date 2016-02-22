@@ -16,7 +16,7 @@
 ## Preparation
 
 1.  Cut the florets off the head of broccoli.
-2.  Place them in enough boiling water so the florets are just covered
+2.  Place them in enough boiling water so the florets are just covered  
        for 15-30 seconds until blanched. 
 3.  Remove from heat and quickly drain hot water, rinsing with cold water. 
 4.  In a large bowl, add chopped celery and broccoli. 
@@ -30,9 +30,9 @@
 
 ## License
 CSCI 4830-821 Recipe Box (c) by The CSCI 4830-821 Authors
-CSCI 4830-821 Recipe Box is licensed under a Creative Commons Attribution 4.0 
-        International License.
+CSCI 4830-821 Recipe Box is licensed under a Creative Commons Attribution 4.0  
+International License.
 
-You should have received a copy of the license along with this work. If not, 
-        see http://creativecommons.org/licenses/by/4.0/.
+You should have received a copy of the license along with this work. If not,  
+see http://creativecommons.org/licenses/by/4.0/.
 
