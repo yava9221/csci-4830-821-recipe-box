@@ -2,9 +2,9 @@
 
 ## Ingredients
 
-*   2 15 oz cans tomato sauce
-*   1 16 oz bag of elbow pasta
 *   2 tbsp vegetable oil or olive oil
+*   1 16 oz bag of elbow pasta
+*   2 15 oz cans tomato sauce
 *   Water as measured by tomato cans
 *   Pepper to taste
 *   Garlic salt to taste
