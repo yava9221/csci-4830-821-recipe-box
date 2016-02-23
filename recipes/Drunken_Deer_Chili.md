@@ -1,6 +1,4 @@
 # Drunken Deer Chili
-
-
 ## Ingredients
 
 * 1 Large Onion or 2 Medium Onions, Chopped
@@ -19,18 +17,14 @@
 
 ## Preparation
 
-
-1.  Saute onions and garlic in a large skillet over medium heat.
-
+1. Saute onions and garlic in a large skillet over medium heat.
 2. Add the ground venison and and all the other ingredients into the crock 
-pot and mix with the different sauces/seasonings until it is all mixed 
-together.
-
+   pot and mix with the different sauces/seasonings until it is all mixed 
+   together.
 3. Cook on low for 8-10 hours or on high for 4-6. I recommend cooking on low 
-for 9 hours.
+   for 9 hours.
 
 ## License
-
 
 CSCI 4830-821 Recipe Box (c) by The CSCI 4830-821 Authors
 
