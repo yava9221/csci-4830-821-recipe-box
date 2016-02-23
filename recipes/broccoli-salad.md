@@ -3,6 +3,7 @@
 ## Ingredients
 
 ### Salad
+
 *   1 head of broccoli
 *   6 sticks of celery, rinsed and chopped
 *   1 bunch of seedless grapes, green or red
@@ -10,6 +11,7 @@
 *   Optional: bacon as desired
 
 ### Dressing
+
 *   1 cup mayonnaise
 *   1 cup vinaigrette of choice
 
@@ -24,6 +26,7 @@
 6.  Add sunflower seeds to top.
 
 ### Dressing
+
 1.  Mix mayonnaise and vinaigrette until smooth. 
 2.  Pour over salad and stir.
 3.  Note: dress salad no more than 1 hour before serving.  
