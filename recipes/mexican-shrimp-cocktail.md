@@ -14,7 +14,6 @@
 *   1/4 cup cocktail sauce
 *   4 cups Clamato tomato juice
 
-
 ## Preparation
 
 1.  Place cooked shrimp in a large mixing bowl.
