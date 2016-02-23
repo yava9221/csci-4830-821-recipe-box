@@ -22,7 +22,7 @@
 4.  Squeeze limes and orange, adding the juice to the bowl.
 5.  Add cocktail sauce.
 6.  Add Clamato.
-7.  Mix well ; add salt to taste.
+7.  Mix well; add salt to taste.
 
 ## License
 
