@@ -2,21 +2,22 @@
 
 ## Ingredients
 
-*  1 lb of spicy Italian pork Sausage
-*  1 pack of frozen mirepoix veggies (green bell peppers, onions and celery)
-*  1 cup of grits
-*  1 cup of chicken stock
-*  1 cup of water
-*  1/2 cup of shredded cheddar cheese
+*   1 lb of spicy Italian pork Sausage
+*   1 pack of frozen mirepoix veggies (green bell peppers, onions and celery)
+*   1 cup of grits
+*   1 cup of chicken stock
+*   1 cup of water
+*   1/2 cup of shredded cheddar cheese
 
 ## Preparation
 
-1. In a large sautee pan on medium heat, cook Italian Sausage until just about done.
-2. Add frozen veggies to the pan. Cook for five minutes until simmering.
-3. Add water, chicken stock, and grits to the pan. Cook for 12-15 minutes,
-   until grits are gooey and steaming.
-4. Top with cheese. Kill the heat, and let rest for two minutes.
-5. Serve with coffee and a hangover.
+1.  In a large sautee pan on medium heat, cook Italian Sausage until just about
+    done.
+2.  Add frozen veggies to the pan. Cook for five minutes until simmering.
+3.  Add water, chicken stock, and grits to the pan. Cook for 12-15 minutes,
+    until grits are gooey and steaming.
+4.  Top with cheese. Kill the heat, and let rest for two minutes.
+5.  Serve with coffee and a hangover.
 
 ## License
 
