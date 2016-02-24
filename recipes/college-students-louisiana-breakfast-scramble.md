@@ -13,8 +13,8 @@
 
 1. In a large sautee pan on medium heat, cook Italian Sausage until just about done.
 2. Add frozen veggies to the pan. Cook for five minutes until simmering.
-3. Add water, chicken stock, and grits to the pan. Cook for 12-15 minutes, until
-   grits are gooey and steaming.
+3. Add water, chicken stock, and grits to the pan. Cook for 12-15 minutes,
+   until grits are gooey and steaming.
 4. Top with cheese. Kill the heat, and let rest for two minutes.
 5. Serve with coffee and a hangover.
 
