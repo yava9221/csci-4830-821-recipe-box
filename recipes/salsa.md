@@ -2,23 +2,23 @@
 
 ## Ingredients
 
-*  3 jalepeno peppers
-*  1 habenaro pepper
-*  3 large garlic cloves
-*  2 cans of diced tomatoes
-*  Small red onion, cut into large chunks
-*  Cilantro, 1 bunch
-*  Lawry's garlic salt, half tablespoon or to taste
-*  Pepper
-*  Half of a lime
-*  1 avocado 
+*   3 jalapeño peppers
+*   1 habanero pepper
+*   3 large garlic cloves
+*   2 cans of diced tomatoes
+*   Small red onion, cut into large chunks
+*   Cilantro, 1 bunch
+*   Lawry's garlic salt, half tablespoon or to taste
+*   Pepper
+*   Half of a lime
+*   1 avocado
 
 ## Preparation
 
-1.  Cut the jalepeno and habenaro peppers open and remove seeds.
+1.  Cut the jalapeño and habanero peppers open and remove seeds.
 2.  Peel the garlic cloves.
 3.  Add diced tomatoes, garlic, peppers, and red onion to a large food
-    processor. 
+    processor.
 4.  Cut off the stems of the cilantro and add to mix.
 5.  Add garlic salt and pepper to taste.
 6.  Squeeze lime on top of mix.
